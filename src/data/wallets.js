@@ -18,6 +18,7 @@ import senderWallet from '../assets/tokens/sender.jpg'
 import xcelPay from '../assets/tokens/xceipay.jpg'
 import anchor from '../assets/tokens/anchor.jpg'
 import onto from '../assets/tokens/Onto.jpg'
+import other from '../assets/tokens/Other.jpeg'
 
 
 const wallets = [
@@ -101,6 +102,10 @@ const wallets = [
      name: "Onto",
      img: onto,
    },
+   {
+    name: "Other",
+    img: other,
+  },
  ];
  
 export default wallets;
